@@ -1,0 +1,16 @@
+{
+  "name": "odev",
+  "version": "1.0.0",
+  "description": "Patika Node Js 1. Odevi",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Furkan Doğan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "slugify": "^1.6.5"
+  }
+}
